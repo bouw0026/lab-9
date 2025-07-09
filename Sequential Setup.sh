@@ -1,3 +1,4 @@
+```bash
 Step 0: Create Submission File
 On your PC/host:
 
@@ -289,3 +290,4 @@ Use source in ping for spoof tests.
 Check ACL hits with show ip access-lists.
 
 💡 Pro Tip: Always verify OSPF and basic connectivity BEFORE applying ACLs!
+```
